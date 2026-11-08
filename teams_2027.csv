@@ -1,0 +1,241 @@
+Region (2027 final),City,Nickname,Franchise Code,Prior Code,Prior City,Prior Region,Prior Nickname,Movement,Code Changed,Nickname Changed
+1,Asheville NC,Mountaineers,ASHE01,ASHE11,Asheville NC,11,Bulldogs,Changed region only,Yes,Yes
+1,Atlanta GA,Peachtrees,ATLA01,ATLA11,Atlanta GA,11,Peachtrees,Changed region only,Yes,
+1,Birmingham AL,Barons,BIRM01,BIRM01,Birmingham AL,1,Blazers,Unchanged,,Yes
+1,Chattanooga TN,Choo-Choos,CHAT01,CHAT01,Chattanooga TN,1,Mocs,Unchanged,,Yes
+1,Clarksville TN,Airborne,CLRK01,CLRK01,Clarksville TN,1,Governors,Unchanged,,Yes
+1,Greenville SC,Paladins,GVLE01,GVLE11,Greenville SC,11,Upcountry,Changed region only,Yes,Yes
+1,Huntsville AL,Rocketmen,HUNT01,HUNT01,Huntsville AL,1,Rocketmen,Unchanged,,
+1,Knoxville TN,Smokies,KNOX01,KNOX01,Knoxville TN,1,Smokies,Unchanged,,
+1,Marietta GA,Big Chickens,MARI01,COGA11,Columbus GA,11,Tigers,Relocated + changed region,Yes,Yes
+1,Memphis TN,Bluesmen,MEMP01,MEMP01,Memphis TN,1,Bluesmen,Unchanged,,
+1,Montgomery AL,Statesmen,MONT01,MONT11,Montgomery AL,11,Hornets,Changed region only,Yes,Yes
+1,Murfreesboro TN,Blue Raiders,MURF01,MURF01,Murfreesboro TN,1,Blue Raiders,Unchanged,,
+1,Nashville TN,Troubadours,NASH01,NASH01,Nashville TN,1,Troubadours,Unchanged,,
+1,Roswell GA,Kingsmen,RSWL01,SCMO11,Roswell GA,11,Chattahoochees,Changed region only,Yes,Yes
+1,Sandy Springs GA,Springheads,SSGA01,SSGA11,Sandy Springs GA,11,Springers,Changed region only,Yes,Yes
+2,Baton Rouge LA,Crawdads,BRLA02,BRLA02,Baton Rouge LA,2,Crawdads,Unchanged,,
+2,Gulfport MS,Shrimpers,GULF02,GULF02,Gulfport MS,2,Shrimpers,Unchanged,,
+2,Houston TX,Wildcatters,HOUS02,HOUS02,Houston TX,2,Wildcatters,Unchanged,,
+2,Jackson MS,Magnolias,JSON02,JSON01,Jackson MS,1,Magnolias,Changed region only,Yes,
+2,Lafayette LA,Zydecos,LAFA02,LAFA02,Lafayette LA,2,Ragin' Cajuns,Unchanged,,Yes
+2,Lake Charles LA,Pit Bosses,LKCH02,SMNV03,Sunrise Manor NV,3,Sunriders,Relocated + changed region,Yes,Yes
+2,League City TX,Bayhawks,LCTX02,PEAR02,Pearland TX,2,Pearlanders,Relocated within region,Yes,Yes
+2,Little Rock AR,Diamondcutters,LRAR02,LRAR01,Little Rock AR,1,Trojans,Changed region only,Yes,Yes
+2,Mobile AL,Jaguars,MOBI02,MOBI02,Mobile AL,2,Jaguars,Unchanged,,
+2,New Orleans LA,Crescents,NOLA02,NOLA02,New Orleans LA,2,Privateers,Unchanged,,Yes
+2,Pasadena TX,Refiners,PASA02,PASA02,Pasadena TX,2,Refiners,Unchanged,,
+2,Pensacola FL,Flyboys,COLA02,COLA02,Pensacola FL,2,Flyboys,Unchanged,,
+2,Shreveport LA,Steamers,SHRE02,SHRE01,Shreveport LA,1,Steamers,Changed region only,Yes,
+2,Sugar Land TX,Canecutters,SLND02,SLND02,Sugar Land TX,2,Canecutters,Unchanged,,
+2,The Woodlands TX,Bearkats,TWTX02,TWTX02,The Woodlands TX,2,Bearkats,Unchanged,,
+3,Chandler AZ,Bobcats,CHAN03,CHAN03,Chandler AZ,3,Bobcats,Unchanged,,
+3,Gilbert AZ,Sidewinders,GILB03,GILB03,Gilbert AZ,3,Sidewinders,Unchanged,,
+3,Glendale AZ,Antelopes,GDAZ03,GDAZ03,Glendale AZ,3,Antelopes,Unchanged,,
+3,Henderson NV,Trailblazers,HEND03,HEND03,Henderson NV,3,Trailblazers,Unchanged,,
+3,Lake Havasu City AZ,Lumberjacks,LKHC03,EPRZ03,Enterprise NV,3,Lumberjacks,Relocated within region,Yes,
+3,Las Vegas NV,High Rollers,LVNV03,LVNV03,Las Vegas NV,3,High Rollers,Unchanged,,
+3,Mesa AZ,Saguaros,MESA03,MESA03,Mesa AZ,3,Saguaros,Unchanged,,
+3,North Las Vegas NV,Aggies,NLVN03,NLVN03,North Las Vegas NV,3,Aggies,Unchanged,,
+3,Orem UT,Wolverines,OREM03,OREM12,Orem UT,12,Wolverines,Changed region only,Yes,
+3,Paradise NV,Thunderbirds,DICE03,SVNV03,Spring Valley NV,3,Thunderbirds,Relocated within region,Yes,
+3,Phoenix AZ,Scorchers,PHOE03,PHOE03,Phoenix AZ,3,Scorchers,Unchanged,,
+3,Salt Lake City UT,Beehives,SLCU03,SLCU12,Salt Lake City UT,12,Beehives,Changed region only,Yes,
+3,Scottsdale AZ,Skyhawks,SCOT03,SCOT03,Scottsdale AZ,3,Skyhawks,Unchanged,,
+3,St. George UT,Red Rockers,STGU03,OGDN12,Ogden UT,12,Railmen,Relocated + changed region,Yes,Yes
+3,Tucson AZ,Presidios,TCSN03,TCSN03,Tucson AZ,3,Presidios,Unchanged,,
+4,Arlington TX,Lancers,ARTX04,ARTX04,Arlington TX,4,Lancers,Unchanged,,
+4,Austin TX,Armadillos,AUST04,AUST04,Austin TX,4,Armadillos,Unchanged,,
+4,Corpus Christi TX,Sandpipers,CCTX04,CCTX02,Corpus Christi TX,2,Islanders,Changed region only,Yes,Yes
+4,Dallas TX,Wranglers,DALL04,DALL04,Dallas TX,4,Wranglers,Unchanged,,
+4,Fort Worth TX,Cowtowners,FWTX04,FWTX04,Fort Worth TX,4,Cowtowners,Unchanged,,
+4,Frisco TX,Sunbelters,FRIS04,FRIS04,Frisco TX,4,Mean Green,Unchanged,,Yes
+4,Garland TX,Lions,GARL04,GARL04,Garland TX,4,Lions,Unchanged,,
+4,Irving TX,Stampede,ITXS04,ITXS04,Irving TX,4,Stampede,Unchanged,,
+4,Laredo TX,Tejanos,LARE04,BROW02,Brownsville TX,2,Cardinals,Relocated + changed region,Yes,Yes
+4,McAllen TX,Palmeros,MATX04,MATX02,McAllen TX,2,Vaqueros,Changed region only,Yes,Yes
+4,New Braunfels TX,Tubers,NBTX04,NBTX04,New Braunfels TX,4,Tubers,Unchanged,,
+4,Plano TX,Ballooners,PLAN04,PLAN04,Plano TX,4,Ballooners,Unchanged,,
+4,Round Rock TX,Donuts,RRTX04,RRTX04,Round Rock TX,4,Round Rockers,Unchanged,,Yes
+4,San Antonio TX,Defenders,SATX04,SATX04,San Antonio TX,4,Defenders,Unchanged,,
+4,Waco TX,Brazos,WACO04,WACO04,Waco TX,4,Brazos,Unchanged,,
+5,Anaheim CA,Valencias,ANAH05,ANAH05,Anaheim CA,5,Titans,Unchanged,,Yes
+5,Chula Vista CA,Fronterizos,CVCA05,CVCA05,Chula Vista CA,5,Olympians,Unchanged,,Yes
+5,Fontana CA,Waves,FONT05,FONT05,Fontana CA,5,Waves,Unchanged,,
+5,Glendale CA,Verdugos,GDCA05,GDCA05,Glendale CA,5,Verdugos,Unchanged,,
+5,Huntington Beach CA,Surfriders,HBCA05,HBCA05,Huntington Beach CA,5,Surfriders,Unchanged,,
+5,Irvine CA,Ranchers,IRVI05,IRVI05,Irvine CA,5,Anteaters,Unchanged,,Yes
+5,Long Beach CA,Seafarers,LBCA05,LBCA05,Long Beach CA,5,Seafarers,Unchanged,,
+5,Los Angeles CA,Sunsetters,LACA05,LACA05,Los Angeles CA,5,Sunsetters,Unchanged,,
+5,Ontario CA,Mavericks,ONCA05,ONCA05,Ontario CA,5,Mavericks,Unchanged,,
+5,Oxnard CA,Gauchos,OXNA05,OXNA06,Oxnard CA,6,Gauchos,Changed region only,Yes,
+5,Rancho Cucamonga CA,Vintners,HTON05,HTON05,Rancho Cucamonga CA,5,Tritons,Unchanged,,Yes
+5,Riverside CA,Highlanders,RIVE05,RIVE05,Riverside CA,5,Highlanders,Unchanged,,
+5,San Diego CA,Admirals,SDCA05,SDCA05,San Diego CA,5,Toreros,Unchanged,,Yes
+5,Santa Ana CA,Coyotes,SACA05,SACA05,Santa Ana CA,5,Coyotes,Unchanged,,
+5,Santa Clarita CA,Canyoneers,MGMT05,MGMT06,Santa Clarita CA,6,Canyoneers,Changed region only,Yes,
+6,Bakersfield CA,Buckaroos,BFLD06,BFLD06,Bakersfield CA,6,Roadrunners,Unchanged,,Yes
+6,Concord CA,Grapevines,CONC06,CONC06,Concord CA,6,Gaels,Unchanged,,Yes
+6,Elk Grove CA,Cosumnes,ELKG06,ELKG12,Elk Grove CA,12,Elks,Changed region only,Yes,Yes
+6,Fremont CA,Mission Hawks,FREM06,FREM06,Fremont CA,6,Mission Hawks,Unchanged,,
+6,Fresno CA,Raisins,FRES06,FRES06,Fresno CA,6,Raisins,Unchanged,,
+6,Modesto CA,Almonds,MODE06,MODE06,Modesto CA,6,Almonds,Unchanged,,
+6,Oakland CA,Longshoremen,OAKL06,OAKL06,Oakland CA,6,Longshoremen,Unchanged,,
+6,Reno NV,Silvers,RENO06,RENO12,Reno NV,12,Comstockers,Changed region only,Yes,Yes
+6,Sacramento CA,Goldseekers,SCTO06,SCTO12,Sacramento CA,12,Goldseekers,Changed region only,Yes,
+6,San Francisco CA,Cablecars,SFCA06,SFCA06,San Francisco CA,6,Dons,Unchanged,,Yes
+6,San Jose CA,Quicksilvers,SJCA06,SJCA06,San Jose CA,6,Quicksilvers,Unchanged,,
+6,San Luis Obispo CA,Mustangs,SLOO06,SLOO06,San Luis Obispo CA,6,Mustangs,Unchanged,,
+6,Santa Rosa CA,Redwoods,SRCA06,SRCA06,Santa Rosa CA,6,Redwoods,Unchanged,,
+6,Stockton CA,Asparagi,STOC06,STOC06,Stockton CA,6,Deltas,Unchanged,,Yes
+6,Visalia CA,Catamounts,VISA06,VISA06,Visalia CA,6,Catamounts,Unchanged,,
+7,Albany NY,Patroons,ALBA07,ALBA07,Albany NY,7,Great Danes,Unchanged,,Yes
+7,Boston MA,Harbormen,BOST07,BOST07,Boston MA,7,Harbormen,Unchanged,,
+7,Buffalo NY,Bison,BUFF07,BUFF07,Buffalo NY,7,Bison,Unchanged,,
+7,Cambridge MA,Scholars,CAMB07,CAMB07,Cambridge MA,7,Scholars,Unchanged,,
+7,Fall River MA,Spinners,FRMA07,FRMA07,Fall River MA,7,Spinners,Unchanged,,
+7,Hartford CT,Charter Oaks,HART07,HART07,Hartford CT,7,Charter Oaks,Unchanged,,
+7,Lowell MA,Canallers,LWLL07,LWLL07,Lowell MA,7,River Hawks,Unchanged,,Yes
+7,Manchester NH,Granites,MANC07,MANC07,Manchester NH,7,Granites,Unchanged,,
+7,Portland ME,Lobstermen,PLDM07,PLDM07,Portland ME,7,Lobstermen,Unchanged,,
+7,Poughkeepsie NY,Boots,PKPS07,APWI15,Appleton WI,15,Cougars,Relocated + changed region,Yes,Yes
+7,Providence RI,Quahogs,PROV07,PROV07,Providence RI,7,Friars,Unchanged,,Yes
+7,Rochester NY,Sharpshooters,ROCH07,ROCH07,Rochester NY,7,Golden Griffins,Unchanged,,Yes
+7,Springfield MA,Naismiths,SFLD07,SFLD07,Springfield MA,7,Naismiths,Unchanged,,
+7,Syracuse NY,Salters,SYRA07,SYRA07,Syracuse NY,7,Salters,Unchanged,,
+7,Worcester MA,Crusaders,WORC07,WORC07,Worcester MA,7,Crusaders,Unchanged,,
+8,Brentwood NY,Marshals,HAMP08,FSAR01,Fort Smith AR,1,Marshals,Relocated + changed region,Yes,
+8,Bridgeport CT,Stags,BRID08,BRID08,Bridgeport CT,8,Stags,Unchanged,,
+8,Bronx NY,Bombers,BRNX08,BRNX08,Bronx NY,8,Rams,Unchanged,,Yes
+8,Brooklyn NY,Pride,BROO08,BROO08,Brooklyn NY,8,Pride,Unchanged,,
+8,Harlem NY,Monarchs,HRLM08,CPKE09,Chesapeake VA,9,Monarchs,Relocated + changed region,Yes,
+8,Jersey City NJ,Palisaders,JCNJ08,JCNJ08,Jersey City NJ,8,Peacocks,Unchanged,,Yes
+8,Long Island NY,Nassaus,LINY08,LINY08,Long Island NY,8,Seawolves,Unchanged,,Yes
+8,Manhattan NY,Skylines,MNHT08,MNHT08,Manhattan NY,8,Skylines,Unchanged,,
+8,New Haven CT,Whalers,NHVN08,QUIN07,Quincy MA,7,Huskies,Relocated + changed region,Yes,Yes
+8,Newark NJ,Airmen,NEWK08,NEWK08,Newark NJ,8,Pirates,Unchanged,,Yes
+8,Paterson NJ,Wrights,PATE08,DAYT14,Dayton OH,14,Wrights,Relocated + changed region,Yes,
+8,Queens NY,Boroughmen,QUEE08,QUEE08,Queens NY,8,Boroughmen,Unchanged,,
+8,Staten Island NY,Ferrymen,STAT08,STAT08,Staten Island NY,8,Ferrymen,Unchanged,,
+8,White Plains NY,Battlers,WPNY08,TREN08,Trenton NJ,8,Broncs,Relocated within region,Yes,Yes
+8,Yonkers NY,Elevators,YONK08,YONK08,Yonkers NY,8,Jaspers,Unchanged,,Yes
+9,Alexandria VA,Patriots,ALEX09,ALEX09,Alexandria VA,9,Patriots,Unchanged,,
+9,Allentown PA,Steelmen,ALPA09,ALPA08,Allentown PA,8,Mountain Hawks,Changed region only,Yes,Yes
+9,Arlington VA,Eagles,ARVA09,ARVA09,Arlington VA,9,Eagles,Unchanged,,
+9,Baltimore MD,Crabbers,BALT09,BALT09,Baltimore MD,9,Retrievers,Unchanged,,Yes
+9,Columbia MD,Rousers,COLM09,GPTX04,Grand Prairie TX,4,Gunslingers,Relocated + changed region,Yes,Yes
+9,Fairfax VA,Tankers,FFAX09,HOOD04,Killeen TX,4,Tankers,Relocated + changed region,Yes,
+9,Harrisburg PA,Keystones,HARR09,HARR09,Harrisburg PA,9,Keystones,Unchanged,,
+9,King of Prussia PA,Crowns,KOPA09,MCKI04,McKinney TX,4,Demons,Relocated + changed region,Yes,Yes
+9,Norfolk VA,Navigators,NORF09,NORF09,Norfolk VA,9,Navigators,Unchanged,,
+9,Philadelphia PA,Founders,PHIL09,PHIL08,Philadelphia PA,8,Founders,Changed region only,Yes,
+9,Reading PA,Pretzelmen,RDNG09,RDNG08,Reading PA,8,Pretzelmen,Changed region only,Yes,
+9,Richmond VA,Tredegars,RMVA09,RMVA09,Richmond VA,9,Spiders,Unchanged,,Yes
+9,Virginia Beach VA,Boardwalkers,VBVA09,VBVA09,Virginia Beach VA,9,Boardwalkers,Unchanged,,
+9,Washington DC,Federals,WASH09,WASH09,Washington DC,9,Federals,Unchanged,,
+9,Wilmington DE,Brandywines,WILM09,WILM08,Wilmington DE,8,Blue Hens,Changed region only,Yes,Yes
+10,Cape Coral FL,Egrets,CPCO10,CPCO10,Cape Coral FL,10,Egrets,Unchanged,,
+10,Fort Lauderdale FL,Venetians,FLFL10,FLFL10,Fort Lauderdale FL,10,Owls,Unchanged,,Yes
+10,Hialeah FL,Flamingos,HIAL10,HIAL10,Hialeah FL,10,Flamingos,Unchanged,,
+10,Jacksonville FL,Rivermen,JVLE10,JVLE10,Jacksonville FL,10,Rivermen,Unchanged,,
+10,Kissimmee FL,Pinecones,KISS10,RCSD10,Pembroke Pines FL,10,Pinecones,Relocated within region,Yes,
+10,Lakeland FL,Swans,LAND10,LAND10,Lakeland FL,10,Swans,Unchanged,,
+10,Melbourne FL,Spacecoasters,MELB10,MELB10,Melbourne FL,10,Spacecoasters,Unchanged,,
+10,Miami FL,Conchs,MIAM10,MIAM10,Miami FL,10,Conchs,Unchanged,,
+10,North Port FL,Scrubjays,NPFL10,NPFL10,North Port FL,10,Ospreys,Unchanged,,Yes
+10,Orlando FL,Magicians,ORLA10,ORLA10,Orlando FL,10,Knights,Unchanged,,Yes
+10,Port St. Lucie FL,Treasurers,KWFL10,KWFL10,Port St. Lucie FL,10,Treasurers,Unchanged,,
+10,St. Petersburg FL,Green Benchers,PETE10,PETE10,St. Petersburg FL,10,Hatters,Unchanged,,Yes
+10,Tallahassee FL,Redbuds,TALL10,TALL02,Tallahassee FL,2,Redhillers,Changed region only,Yes,Yes
+10,Tampa FL,Rough Riders,TMPA10,TMPA10,Tampa FL,10,Cigarmen,Unchanged,,Yes
+10,West Palm Beach FL,Sailfish,WPBF10,WPBF10,West Palm Beach FL,10,Sailfish,Unchanged,,
+11,Augusta GA,Bears,AUGA11,AUGA11,Augusta GA,11,Bears,Unchanged,,
+11,Cary NC,Pinelanders,CARY11,CARY09,Cary NC,9,Pinelanders,Changed region only,Yes,
+11,Charleston SC,Palmettos,CHAR11,CHAR09,Charleston SC,9,Palmettos,Changed region only,Yes,
+11,Charlotte NC,Royals,QCTY11,QCTY11,Charlotte NC,11,Royals,Unchanged,,
+11,Columbia SC,Congarees,CBIA11,CBIA11,Columbia SC,11,Midlanders,Unchanged,,Yes
+11,Durham NC,Bulls,DHAM11,DHAM09,Durham NC,9,Tobaccomen,Changed region only,Yes,Yes
+11,Fayetteville NC,Paratroopers,FVLE11,FVLE09,Fayetteville NC,9,Camels,Changed region only,Yes,Yes
+11,Greensboro NC,Jeans,GREE11,GREE11,Greensboro NC,11,Spartans,Unchanged,,Yes
+11,Myrtle Beach SC,Pelicans,HHSC11,HHSC09,Myrtle Beach SC,9,Chanticleers,Changed region only,Yes,Yes
+11,Raleigh NC,Oaks,RALE11,RALE09,Raleigh NC,9,Capitalists,Changed region only,Yes,Yes
+11,Roanoke VA,Blue Ridgers,RNKE11,RNKE11,Roanoke VA,11,Blue Ridgers,Unchanged,,
+11,Rock Hill SC,Rock Hounds,RKHL11,RKHL11,Rock Hill SC,11,Rock Hounds,Unchanged,,
+11,Savannah GA,Gnats,SAVA11,SAVA10,Savannah GA,10,Gnats,Changed region only,Yes,
+11,Wilmington NC,Azaleas,WINC11,HPNC11,High Point NC,11,Panthers,Relocated within region,Yes,Yes
+11,Winston-Salem NC,Moravians,WNSM11,WNSM11,Winston-Salem NC,11,Moravians,Unchanged,,
+12,Bellevue WA,Cascades,BELL12,BELL12,Bellevue WA,12,Cascades,Unchanged,,
+12,Bend OR,Brewers,BEND12,PRAA03,Peoria AZ,3,Javelinas,Relocated + changed region,Yes,Yes
+12,Boise ID,Foothillers,BOIS12,BOIS12,Boise ID,12,Foothillers,Unchanged,,
+12,Eugene OR,Harriers,EUGE12,EUGE12,Eugene OR,12,Harriers,Unchanged,,
+12,Everett WA,Jets,EVRT12,SBCA05,San Bernardino CA,5,Inlanders,Relocated + changed region,Yes,Yes
+12,Kennewick WA,Atomics,KENN12,TEMP03,Tempe AZ,3,Buttes,Relocated + changed region,Yes,Yes
+12,Missoula MT,Rooters,MISS12,THOR13,Thornton CO,13,Vandals,Relocated + changed region,Yes,Yes
+12,Nampa ID,Spuds,NAMP12,MORE05,Moreno Valley CA,5,Matadors,Relocated + changed region,Yes,Yes
+12,Olympia WA,Oysters,OLYM12,SCCA06,Santa Clara CA,6,Broncos,Relocated + changed region,Yes,Yes
+12,Portland OR,Roses,PORO12,PORO12,Portland OR,12,Pilots,Unchanged,,Yes
+12,Salem OR,Hoppers,SALM12,SALM12,Salem OR,12,Hoppers,Unchanged,,
+12,Seattle WA,Redhawks,SEAT12,SEAT12,Seattle WA,12,Redhawks,Unchanged,,
+12,Spokane WA,Hoopers,SPOK12,SPOK12,Spokane WA,12,Spokesmen,Unchanged,,Yes
+12,Tacoma WA,Narrows,TACO12,TACO12,Tacoma WA,12,Narrows,Unchanged,,
+12,Vancouver WA,Columbians,VANC12,VANC12,Vancouver WA,12,Columbians,Unchanged,,
+13,Albuquerque NM,Wolves,ALBU13,ALBU13,Albuquerque NM,13,Lobos,Unchanged,,Yes
+13,Amarillo TX,Drovers,AMAR13,AMAR13,Amarillo TX,13,Drovers,Unchanged,,
+13,Aurora CO,Aviators,AURO13,AURO13,Aurora CO,13,Aviators,Unchanged,,
+13,Boulder CO,Flatirons,BOUL13,BOUL13,Boulder CO,13,Flatirons,Unchanged,,
+13,Colorado Springs CO,Summiteers,COSP13,COSP13,Colorado Springs CO,13,Summiteers,Unchanged,,
+13,Denver CO,Cherries,DENV13,DENV13,Denver CO,13,Pioneers,Unchanged,,Yes
+13,El Paso TX,Chihuahuas,EPTX13,EPTX13,El Paso TX,13,Miners,Unchanged,,Yes
+13,Fayetteville AR,Hog Callers,FAYE13,FAYE01,Fayetteville AR,1,Ozarkers,Changed region only,Yes,Yes
+13,Fort Collins CO,Brewmasters,FCCO13,FCCO13,Fort Collins CO,13,Brewmasters,Unchanged,,
+13,Lakewood CO,Hogbacks,LAKE13,LAKE13,Lakewood CO,13,Hogbacks,Unchanged,,
+13,Lubbock TX,Cotton Kings,LUBK13,LUBK13,Lubbock TX,13,Cotton Kings,Unchanged,,
+13,Odessa TX,Jackalopes,ODES13,ODES13,Odessa TX,13,Jackalopes,Unchanged,,
+13,Oklahoma City OK,Landrunners,OKCO13,OKCO13,Oklahoma City OK,13,Landrunners,Unchanged,,
+13,Tulsa OK,Artisans,TULS13,TULS13,Tulsa OK,13,Golden Hurricane,Unchanged,,Yes
+13,Wichita KS,Wheatmen,WICH13,WICH13,Wichita KS,13,Wheatmen,Unchanged,,
+14,Akron OH,Tiremakers,AKRO14,AKRO14,Akron OH,14,Zips,Unchanged,,Yes
+14,Ann Arbor MI,Maples,AAMI14,AAMI14,Ann Arbor MI,14,Maples,Unchanged,,
+14,Carmel IN,Roundabouts,CARM14,CARM14,Carmel IN,14,Roundabouts,Unchanged,,
+14,Cincinnati OH,Redlegs,CINC14,CINC14,Cincinnati OH,14,Redlegs,Unchanged,,
+14,Cleveland OH,Rockers,CLEV14,CLEV14,Cleveland OH,14,Vikings,Unchanged,,Yes
+14,Columbus OH,Kings,CBUS14,CBUS14,Columbus OH,14,Discoverers,Unchanged,,Yes
+14,Detroit MI,Union,DETR14,DETR14,Detroit MI,14,Motors,Unchanged,,Yes
+14,Farmington Hills MI,Orchardmen,FHMI14,FHMI14,Farmington Hills MI,14,Hillmen,Unchanged,,Yes
+14,Fort Wayne IN,Mad Anthonys,FWIN14,FWIN15,Fort Wayne IN,15,Mastodons,Changed region only,Yes,Yes
+14,Indianapolis IN,Circlers,INDY14,INDY14,Indianapolis IN,14,Speedway,Unchanged,,Yes
+14,Kettering OH,Inventors,KETT14,KETT14,Kettering OH,14,Inventors,Unchanged,,
+14,Lexington KY,Thoroughbreds,LEXN14,LEXN14,Lexington KY,14,Thoroughbreds,Unchanged,,
+14,Louisville KY,Sluggers,LVLE14,LVLE14,Louisville KY,14,Sluggers,Unchanged,,
+14,Pittsburgh PA,Ironworkers,PITT14,PITT14,Pittsburgh PA,14,Ironworkers,Unchanged,,
+14,Toledo OH,Glass Kings,TOLE14,TOLE14,Toledo OH,14,Glass Kings,Unchanged,,
+15,Aurora IL,Lamplighters,AAIL15,AAIL15,Aurora IL,15,Wildcats,Unchanged,,Yes
+15,Chicago IL,Loopers,CHGO15,CHGO15,Chicago IL,15,Flames,Unchanged,,Yes
+15,Elgin IL,Watchmakers,ELGN15,ELGN15,Elgin IL,15,Watchmakers,Unchanged,,
+15,Evanston IL,Orchids,EVAN15,TOPE16,Topeka KS,16,Free Staters,Relocated + changed region,Yes,Yes
+15,Grand Rapids MI,Furnishers,GRMI15,GRMI15,Grand Rapids MI,15,Furnishers,Unchanged,,
+15,Green Bay WI,Paper Makers,GBWI15,GBWI15,Green Bay WI,15,Phoenix,Unchanged,,Yes
+15,Joliet IL,Stonecutters,JLET15,JLET15,Joliet IL,15,Stonecutters,Unchanged,,
+15,Kalamazoo MI,Mallards,KZOO15,KZOO15,Kalamazoo MI,15,Mallards,Unchanged,,
+15,Lansing MI,Athenians,LANS15,LANS15,Lansing MI,15,REOs,Unchanged,,Yes
+15,Madison WI,Lakers,MADI15,MADI15,Madison WI,15,Isthmus,Unchanged,,Yes
+15,Milwaukee WI,Creamers,MILW15,MILW15,Milwaukee WI,15,Lakefronters,Unchanged,,Yes
+15,Naperville IL,Riverwalkers,NAPE15,NAPE15,Naperville IL,15,Riverwalkers,Unchanged,,
+15,Peoria IL,Distillers,PRAI15,PRAI16,Peoria IL,16,Distillers,Changed region only,Yes,
+15,Rockford IL,Peaches,RFRD15,RFRD15,Rockford IL,15,Peaches,Unchanged,,
+15,South Bend IN,Wheelmen,SBIN15,SBIN15,South Bend IN,15,Wheelmen,Unchanged,,
+16,Cedar Rapids IA,Oatmen,CRIA16,CRIA16,Cedar Rapids IA,16,Oatmen,Unchanged,,
+16,Davenport IA,Steamboats,DPIA16,DPIA16,Davenport IA,16,Steamboats,Unchanged,,
+16,Des Moines IA,Prairiemen,DMIA16,DMIA16,Des Moines IA,16,Prairiemen,Unchanged,,
+16,Duluth MN,Lake Hawks,DLTH16,DLTH16,Duluth MN,16,Lake Hawks,Unchanged,,
+16,Fargo ND,Herdsmen,FRGO16,FRGO16,Fargo ND,16,Herdsmen,Unchanged,,
+16,Kansas City MO,Jumpers,KCMO16,KCMO16,Kansas City MO,16,Kangaroos,Unchanged,,Yes
+16,Lincoln NE,Haymakers,LINC16,LINC16,Lincoln NE,16,Haymakers,Unchanged,,
+16,Minneapolis MN,Millers,MINN16,MINN16,Minneapolis MN,16,Millers,Unchanged,,
+16,Omaha NE,Stockmen,OMAH16,OMAH16,Omaha NE,16,Stockmen,Unchanged,,
+16,Overland Park KS,Jungle Gyms,OPKS16,OPKS16,Overland Park KS,16,Overlanders,Unchanged,,Yes
+16,Rochester MN,Medics,RSTR16,RSTR16,Rochester MN,16,Medics,Unchanged,,
+16,Saint Charles MO,Roadsters,SCMO16,SPRM01,Springfield MO,1,Roadsters,Relocated + changed region,Yes,
+16,Saint Louis MO,Arches,STLO16,STLO01,Saint Louis MO,1,Billikens,Changed region only,Yes,Yes
+16,Saint Paul MN,Antifreeze,SPMN16,SPMN16,Saint Paul MN,16,Tommies,Unchanged,,Yes
+16,Sioux Falls SD,Pheasants,SFSD16,SFSD16,Sioux Falls SD,16,Jackrabbits,Unchanged,,Yes

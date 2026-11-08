@@ -1,0 +1,241 @@
+CoachID,TeamCode,Team,Region,Tenure_2027,Coach_Rating,Event,New_Coach_2027,Coach_From,Prior_CoachID,Prior_Tenure,Prior_Rating,Fire_Prob,Fire_Reason,Prestige_z,Momentum,Pct2026
+COA001,AAIL15,Aurora IL,15,23,3.2,Retained,False,Aurora IL,COA001,22,3.2,0.08,base rate,0.28,0.0,0.544
+COA002,AAMI14,Ann Arbor MI,14,12,3.1,Retained,False,Ann Arbor MI,COA002,11,3.1,0.04,top-quartile and not sliding (x0.5),0.35,0.02,0.845
+COA003,AKRO14,Akron OH,14,6,1.2,Retained,False,Akron OH,COA003,5,1.2,0.2,bottom-quartile finish AND sharp slide (x2.5),0.32,-0.61,0.071
+COA004,ALBA07,Albany NY,7,5,2.0,Retained,False,Albany NY,COA004,4,2.0,0.04,top-quartile and not sliding (x0.5),-1.03,0.27,0.766
+COA005,ALBU13,Albuquerque NM,13,8,2.3,Retained,False,Albuquerque NM,COA005,7,2.3,0.08,base rate,1.15,-0.13,0.598
+COA006,ALEX09,Alexandria VA,9,3,3.1,Retained,False,Alexandria VA,COA006,2,3.1,0.04,top-quartile and not sliding (x0.5),0.91,0.01,0.858
+COA007,ALPA09,Allentown PA,9,3,3.1,Retained,False,Allentown PA,COA007,2,3.1,0.08,base rate,-0.22,0.01,0.678
+COA008,AMAR13,Amarillo TX,13,4,1.3,Retained,False,Amarillo TX,COA008,3,1.3,0.08,base rate,-0.81,0.08,0.611
+COA241,ANAH05,Anaheim CA,5,1,2.4,Fired - new hire,True,new to league,COA009,4,2.7,0.16,bottom-quartile finish (x2),-0.4,-0.21,0.138
+COA010,PKPS07,Poughkeepsie NY,7,8,2.5,Retained,False,Poughkeepsie NY,COA010,7,2.5,0.08,base rate,-0.13,-0.2,0.389
+COA242,ARTX04,Arlington TX,4,1,3.9,Fired - new hire,True,new to league,COA011,4,3.0,0.08,base rate,-0.4,0.15,0.464
+COA012,ARVA09,Arlington VA,9,7,2.8,Retained,False,Arlington VA,COA012,6,2.8,0.08,base rate,-0.6,-0.1,0.494
+COA243,ASHE01,Asheville NC,1,1,4.6,Fired - new hire,True,new to league,COA013,5,2.3,0.08,base rate,0.7,0.04,0.686
+COA014,ATLA01,Atlanta GA,1,8,1.9,Retained,False,Atlanta GA,COA014,7,1.9,0.08,base rate,-0.41,0.16,0.644
+COA015,AUGA11,Augusta GA,11,7,1.7,Retained,False,Augusta GA,COA015,6,1.7,0.08,base rate,-0.71,0.0,0.285
+COA016,AURO13,Aurora CO,13,5,2.0,Retained,False,Aurora CO,COA016,4,2.0,0.04,top-quartile and not sliding (x0.5),-0.57,0.52,0.937
+COA244,AUST04,Austin TX,4,1,1.8,Fired - new hire,True,new to league,COA017,8,2.7,0.08,base rate,0.45,0.06,0.531
+COA018,BALT09,Baltimore MD,9,4,2.2,Retained,False,Baltimore MD,COA018,3,2.2,0.08,base rate,-0.42,0.25,0.64
+COA019,BELL12,Bellevue WA,12,5,2.8,Retained,False,Bellevue WA,COA019,4,2.8,0.08,base rate,1.43,-0.2,0.251
+COA020,BFLD06,Bakersfield CA,6,3,1.8,Retained,False,Bakersfield CA,COA020,2,1.8,0.08,base rate,0.0,0.13,0.586
+COA021,BIRM01,Birmingham AL,1,6,2.5,Retained,False,Birmingham AL,COA021,5,2.5,0.16,bottom-quartile finish (x2),-0.78,-0.14,0.121
+COA022,BOIS12,Boise ID,12,2,2.2,Retained,False,Boise ID,COA022,1,2.2,0.04,top-quartile and not sliding (x0.5),0.23,0.12,0.971
+COA023,BOST07,Boston MA,7,13,2.9,Retained,False,Boston MA,COA023,12,2.9,0.08,base rate,0.11,-0.21,0.711
+COA024,BOUL13,Boulder CO,13,21,1.2,Retained,False,Boulder CO,COA024,20,1.2,0.08,base rate,-0.33,0.0,0.255
+COA245,BRID08,Bridgeport CT,8,1,2.0,Fired - new hire,True,new to league,COA025,5,2.5,0.08,base rate,-0.41,0.03,0.561
+COA246,BRLA02,Baton Rouge LA,2,1,2.5,Fired - new hire,True,new to league,COA026,3,2.8,0.16,bottom-quartile finish (x2),-0.82,0.04,0.029
+COA027,BRNX08,Bronx NY,8,4,2.8,Retained,False,Bronx NY,COA027,3,2.8,0.2,bottom-quartile finish AND sharp slide (x2.5),0.2,-0.36,0.013
+COA028,BROO08,Brooklyn NY,8,14,4.3,Retained,False,Brooklyn NY,COA028,13,4.3,0.08,base rate,1.39,-0.01,0.699
+COA247,LARE04,Laredo TX,4,1,3.6,Fired - new hire,True,new to league,COA029,1,2.8,0.08,base rate,-1.07,0.2,0.565
+COA030,BUFF07,Buffalo NY,7,15,1.6,Retained,False,Buffalo NY,COA030,14,1.6,0.2,bottom-quartile finish AND sharp slide (x2.5),-0.53,-0.35,0.146
+COA031,CAMB07,Cambridge MA,7,9,1.6,Retained,False,Cambridge MA,COA031,8,1.6,0.04,top-quartile and not sliding (x0.5),0.01,0.35,0.967
+COA032,CARM14,Carmel IN,14,2,1.3,Retained,False,Carmel IN,COA032,1,1.3,0.04,top-quartile and not sliding (x0.5),-0.87,0.4,0.883
+COA033,CARY11,Cary NC,11,9,2.3,Retained,False,Cary NC,COA033,8,2.3,0.04,top-quartile and not sliding (x0.5),0.93,0.02,0.929
+COA034,CBIA11,Columbia SC,11,3,3.0,Retained,False,Columbia SC,COA034,2,3.0,0.08,base rate,0.45,0.05,0.423
+COA035,CBUS14,Columbus OH,14,12,4.2,Retained,False,Columbus OH,COA035,11,4.2,0.08,base rate,0.39,0.1,0.674
+COA036,CCTX04,Corpus Christi TX,4,3,2.9,Retained,False,Corpus Christi TX,COA036,2,2.9,0.08,base rate,-0.31,-0.16,0.498
+COA037,CHAN03,Chandler AZ,3,5,1.8,Retained,False,Chandler AZ,COA037,4,1.8,0.16,bottom-quartile finish (x2),-0.81,-0.11,0.151
+COA038,CHAR11,Charleston SC,11,2,1.9,Retained,False,Charleston SC,COA038,1,1.9,0.16,bottom-quartile finish (x2),-0.73,0.04,0.197
+COA039,CHAT01,Chattanooga TN,1,4,2.6,Retained,False,Chattanooga TN,COA039,3,2.6,0.08,base rate,0.73,-0.04,0.916
+COA040,CHGO15,Chicago IL,15,2,2.6,Retained,False,Chicago IL,COA040,1,2.6,0.08,base rate,2.15,-0.1,0.36
+COA041,CINC14,Cincinnati OH,14,15,2.5,Retained,False,Cincinnati OH,COA041,14,2.5,0.16,bottom-quartile finish (x2),-1.26,0.01,0.218
+COA042,CLEV14,Cleveland OH,14,15,2.1,Retained,False,Cleveland OH,COA042,14,2.1,0.08,base rate,-0.15,-0.08,0.347
+COA043,CLRK01,Clarksville TN,1,3,3.6,Retained,False,Clarksville TN,COA043,2,3.6,0.08,base rate,-0.4,0.14,0.728
+COA248,MARI01,Marietta GA,1,1,3.0,Fired - new hire,True,new to league,COA044,2,2.0,0.16,bottom-quartile finish (x2),-1.31,-0.05,0.054
+COA045,COLA02,Pensacola FL,2,5,2.7,Retained,False,Pensacola FL,COA045,4,2.7,0.08,base rate,1.95,-0.19,0.527
+COA046,CONC06,Concord CA,6,6,2.6,Retained,False,Concord CA,COA046,5,2.6,0.08,base rate,-0.78,0.31,0.615
+COA249,COSP13,Colorado Springs CO,13,1,2.2,Fired - new hire,True,new to league,COA047,1,1.7,0.08,base rate,0.66,-0.05,0.506
+COA048,CPCO10,Cape Coral FL,10,4,2.2,Retained,False,Cape Coral FL,COA048,3,2.2,0.08,base rate,1.67,-0.01,0.778
+COA049,HRLM08,Harlem NY,8,3,3.1,Retained,False,Harlem NY,COA049,2,3.1,0.16,bottom-quartile finish (x2),-0.12,-0.24,0.205
+COA050,CRIA16,Cedar Rapids IA,16,14,2.9,Retained,False,Cedar Rapids IA,COA050,13,2.9,0.04,top-quartile and not sliding (x0.5),0.52,0.17,0.774
+COA051,CVCA05,Chula Vista CA,5,9,2.4,Retained,False,Chula Vista CA,COA051,8,2.4,0.04,top-quartile and not sliding (x0.5),2.62,0.01,0.941
+COA052,DALL04,Dallas TX,4,2,4.0,Retained,False,Dallas TX,COA052,1,4.0,0.04,top-quartile and not sliding (x0.5),0.04,0.21,0.799
+COA053,PATE08,Paterson NJ,8,2,1.9,Retained,False,Paterson NJ,COA053,1,1.9,0.08,base rate,-0.38,0.03,0.444
+COA054,DENV13,Denver CO,13,2,2.4,Retained,False,Denver CO,COA054,1,2.4,0.08,base rate,2.5,-0.22,0.837
+COA055,DETR14,Detroit MI,14,10,2.9,Retained,False,Detroit MI,COA055,9,2.9,0.16,bottom-quartile finish (x2),-1.34,-0.01,0.079
+COA056,DHAM11,Durham NC,11,4,2.0,Retained,False,Durham NC,COA056,3,2.0,0.16,bottom-quartile finish (x2),-0.42,0.05,0.167
+COA057,DLTH16,Duluth MN,16,10,2.7,Retained,False,Duluth MN,COA057,9,2.7,0.08,base rate,-0.36,0.11,0.502
+COA058,DMIA16,Des Moines IA,16,2,3.4,Retained,False,Des Moines IA,COA058,1,3.4,0.04,top-quartile and not sliding (x0.5),-0.53,0.2,0.95
+COA059,DPIA16,Davenport IA,16,2,1.9,Retained,False,Davenport IA,COA059,1,1.9,0.16,bottom-quartile finish (x2),-0.4,-0.01,0.142
+COA060,ELGN15,Elgin IL,15,2,1.4,Retained,False,Elgin IL,COA060,1,1.4,0.16,bottom-quartile finish (x2),-0.51,-0.1,0.096
+COA061,ELKG06,Elk Grove CA,6,7,2.5,Retained,False,Elk Grove CA,COA061,6,2.5,0.04,top-quartile and not sliding (x0.5),-0.86,0.23,0.908
+COA062,LKHC03,Lake Havasu City AZ,3,13,2.3,Retained,False,Lake Havasu City AZ,COA062,12,2.3,0.08,base rate,1.34,-0.1,0.381
+COA083,EPTX13,El Paso TX,13,1,3.9,Fired - hired poached coach,True,Gilbert AZ,COA063,4,1.9,0.08,base rate,1.2,-0.05,0.456
+COA064,EUGE12,Eugene OR,12,17,2.6,Retained,False,Eugene OR,COA064,16,2.6,0.08,base rate,-0.45,0.15,0.745
+COA065,FAYE13,Fayetteville AR,13,4,2.7,Retained,False,Fayetteville AR,COA065,3,2.7,0.16,bottom-quartile finish (x2),-1.38,-0.01,0.05
+COA066,FCCO13,Fort Collins CO,13,3,1.9,Retained,False,Fort Collins CO,COA066,2,1.9,0.16,sharp multi-year slide (x2),-0.45,-0.32,0.356
+COA250,FHMI14,Farmington Hills MI,14,1,0.8,Fired - new hire,True,new to league,COA067,3,1.9,0.08,base rate,0.14,-0.03,0.628
+COA068,FLFL10,Fort Lauderdale FL,10,2,2.6,Retained,False,Fort Lauderdale FL,COA068,1,2.6,0.08,base rate,-0.45,0.15,0.632
+COA251,FONT05,Fontana CA,5,1,2.4,Fired - new hire,True,new to league,COA069,2,2.4,0.16,bottom-quartile finish (x2),-1.19,0.0,0.23
+COA070,FREM06,Fremont CA,6,3,2.4,Retained,False,Fremont CA,COA070,2,2.4,0.08,base rate,1.48,0.17,0.715
+COA071,FRES06,Fresno CA,6,2,3.1,Retained,False,Fresno CA,COA071,1,3.1,0.08,base rate,-0.61,-0.03,0.41
+COA072,FRGO16,Fargo ND,16,2,3.7,Retained,False,Fargo ND,COA072,1,3.7,0.08,base rate,-0.47,-0.04,0.695
+COA073,FRIS04,Frisco TX,4,5,3.4,Retained,False,Frisco TX,COA073,4,3.4,0.04,top-quartile and not sliding (x0.5),-0.63,0.15,0.782
+COA074,FRMA07,Fall River MA,7,4,1.6,Retained,False,Fall River MA,COA074,3,1.6,0.08,base rate,1.93,-0.01,0.736
+COA075,HAMP08,Brentwood NY,8,4,3.0,Retained,False,Brentwood NY,COA075,3,3.0,0.08,base rate,-0.52,0.03,0.397
+COA076,FVLE11,Fayetteville NC,11,2,1.2,Retained,False,Fayetteville NC,COA076,1,1.2,0.08,base rate,0.04,0.03,0.372
+COA077,FWIN14,Fort Wayne IN,14,4,2.1,Retained,False,Fort Wayne IN,COA077,3,2.1,0.08,base rate,-0.04,-0.13,0.326
+COA078,FWTX04,Fort Worth TX,4,2,2.0,Retained,False,Fort Worth TX,COA078,1,2.0,0.04,top-quartile and not sliding (x0.5),0.27,0.26,0.925
+COA079,GARL04,Garland TX,4,2,2.7,Retained,False,Garland TX,COA079,1,2.7,0.16,bottom-quartile finish (x2),-1.41,0.03,0.017
+COA080,GBWI15,Green Bay WI,15,2,3.0,Retained,False,Green Bay WI,COA080,1,3.0,0.08,base rate,-0.35,-0.03,0.569
+COA081,GDAZ03,Glendale AZ,3,2,3.2,Retained,False,Glendale AZ,COA081,1,3.2,0.16,bottom-quartile finish (x2),-0.05,-0.16,0.155
+COA082,GDCA05,Glendale CA,5,3,1.9,Retained,False,Glendale CA,COA082,2,1.9,0.04,top-quartile and not sliding (x0.5),0.23,0.39,0.912
+COA252,GILB03,Gilbert AZ,3,1,4.0,Coach poached away - new hire,True,new to league,COA083,1,3.9,0.08,base rate,-0.33,0.35,0.636
+COA084,COLM09,Columbia MD,9,5,3.3,Retained,False,Columbia MD,COA084,4,3.3,0.2,bottom-quartile finish AND sharp slide (x2.5),0.12,-0.29,0.226
+COA085,GREE11,Greensboro NC,11,4,2.7,Retained,False,Greensboro NC,COA085,3,2.7,0.16,sharp multi-year slide (x2),0.75,-0.59,0.301
+COA086,GRMI15,Grand Rapids MI,15,14,3.0,Retained,False,Grand Rapids MI,COA086,13,3.0,0.16,bottom-quartile finish (x2),-1.06,-0.09,0.13
+COA087,GULF02,Gulfport MS,2,11,2.4,Retained,False,Gulfport MS,COA087,10,2.4,0.08,base rate,0.05,-0.12,0.351
+COA088,GVLE01,Greenville SC,1,12,2.7,Retained,False,Greenville SC,COA088,11,2.7,0.04,top-quartile and not sliding (x0.5),0.4,0.1,0.82
+COA089,HARR09,Harrisburg PA,9,4,2.2,Retained,False,Harrisburg PA,COA089,3,2.2,0.08,base rate,1.01,-0.13,0.987
+COA090,HART07,Hartford CT,7,13,2.7,Retained,False,Hartford CT,COA090,12,2.7,0.16,bottom-quartile finish (x2),-1.16,-0.06,0.059
+COA091,HBCA05,Huntington Beach CA,5,5,1.0,Retained,False,Huntington Beach CA,COA091,4,1.0,0.08,base rate,-0.36,-0.05,0.289
+COA092,HEND03,Henderson NV,3,5,1.0,Retained,False,Henderson NV,COA092,4,1.0,0.16,sharp multi-year slide (x2),0.69,-0.3,0.427
+COA093,HHSC11,Myrtle Beach SC,11,6,2.3,Retained,False,Myrtle Beach SC,COA093,5,2.3,0.08,base rate,0.67,0.01,0.72
+COA094,HIAL10,Hialeah FL,10,6,3.0,Retained,False,Hialeah FL,COA094,5,3.0,0.04,top-quartile and not sliding (x0.5),1.04,0.11,0.854
+COA095,FFAX09,Fairfax VA,9,15,2.2,Retained,False,Fairfax VA,COA095,14,2.2,0.16,bottom-quartile finish (x2),-1.15,0.07,0.038
+COA096,HOUS02,Houston TX,2,23,3.6,Retained,False,Houston TX,COA096,22,3.6,0.08,base rate,0.36,-0.06,0.749
+COA097,WINC11,Wilmington NC,11,5,1.7,Retained,False,Wilmington NC,COA097,4,1.7,0.08,base rate,0.17,-0.1,0.318
+COA098,HTON05,Rancho Cucamonga CA,5,27,4.0,Retained,False,Rancho Cucamonga CA,COA098,26,4.0,0.08,base rate,-0.84,0.24,0.623
+COA099,HUNT01,Huntsville AL,1,3,4.3,Retained,False,Huntsville AL,COA099,2,4.3,0.08,base rate,0.22,-0.01,0.305
+COA100,INDY14,Indianapolis IN,14,2,0.6,Retained,False,Indianapolis IN,COA100,1,0.6,0.16,bottom-quartile finish (x2),-0.4,0.08,0.192
+COA101,IRVI05,Irvine CA,5,7,2.5,Retained,False,Irvine CA,COA101,6,2.5,0.04,top-quartile and not sliding (x0.5),-0.16,0.31,0.791
+COA102,ITXS04,Irving TX,4,9,2.0,Retained,False,Irving TX,COA102,8,2.0,0.16,bottom-quartile finish (x2),-0.25,-0.17,0.033
+COA103,JCNJ08,Jersey City NJ,8,8,1.7,Retained,False,Jersey City NJ,COA103,7,1.7,0.08,base rate,-1.07,-0.06,0.268
+COA104,JLET15,Joliet IL,15,10,2.9,Retained,False,Joliet IL,COA104,9,2.9,0.08,base rate,-0.37,0.21,0.314
+COA105,JSON02,Jackson MS,2,12,2.9,Retained,False,Jackson MS,COA105,11,2.9,0.08,base rate,-0.67,0.12,0.523
+COA106,JVLE10,Jacksonville FL,10,5,2.5,Retained,False,Jacksonville FL,COA106,4,2.5,0.08,base rate,-0.68,0.14,0.452
+COA107,KCMO16,Kansas City MO,16,2,2.3,Retained,False,Kansas City MO,COA107,1,2.3,0.16,bottom-quartile finish (x2),-0.37,-0.09,0.008
+COA108,KETT14,Kettering OH,14,10,2.7,Retained,False,Kettering OH,COA108,9,2.7,0.04,top-quartile and not sliding (x0.5),2.21,0.17,0.983
+COA109,KNOX01,Knoxville TN,1,2,1.7,Retained,False,Knoxville TN,COA109,1,1.7,0.04,top-quartile and not sliding (x0.5),0.2,0.18,0.828
+COA110,KWFL10,Port St. Lucie FL,10,5,4.0,Retained,False,Port St. Lucie FL,COA110,4,4.0,0.08,base rate,-0.39,0.16,0.707
+COA111,KZOO15,Kalamazoo MI,15,2,2.6,Retained,False,Kalamazoo MI,COA111,1,2.6,0.08,base rate,0.09,-0.04,0.669
+COA112,LACA05,Los Angeles CA,5,4,2.4,Retained,False,Los Angeles CA,COA112,3,2.4,0.04,top-quartile and not sliding (x0.5),-0.18,0.41,0.958
+COA253,LAFA02,Lafayette LA,2,1,1.3,Fired - new hire,True,new to league,COA113,2,3.3,0.08,base rate,-0.21,-0.12,0.603
+COA114,LAKE13,Lakewood CO,13,3,1.6,Retained,False,Lakewood CO,COA114,2,1.6,0.16,bottom-quartile finish (x2),-0.33,-0.09,0.046
+COA115,LAND10,Lakeland FL,10,5,3.0,Retained,False,Lakeland FL,COA115,4,3.0,0.16,bottom-quartile finish (x2),-0.31,-0.11,0.188
+COA254,LANS15,Lansing MI,15,1,1.5,Fired - new hire,True,new to league,COA116,9,2.7,0.16,bottom-quartile finish (x2),-1.03,-0.16,0.243
+COA117,LBCA05,Long Beach CA,5,9,2.4,Retained,False,Long Beach CA,COA117,8,2.4,0.08,base rate,1.62,-0.02,0.954
+COA118,LEXN14,Lexington KY,14,18,3.7,Retained,False,Lexington KY,COA118,17,3.7,0.04,top-quartile and not sliding (x0.5),1.03,0.07,0.816
+COA119,LINC16,Lincoln NE,16,15,3.5,Retained,False,Lincoln NE,COA119,14,3.5,0.04,top-quartile and not sliding (x0.5),-0.31,0.4,0.795
+COA120,LINY08,Long Island NY,8,2,5.0,Retained,False,Long Island NY,COA120,1,5.0,0.08,base rate,-0.45,-0.19,0.661
+COA121,LRAR02,Little Rock AR,2,5,2.8,Retained,False,Little Rock AR,COA121,4,2.8,0.16,bottom-quartile finish (x2),-0.86,-0.11,0.067
+COA122,LUBK13,Lubbock TX,13,4,2.6,Retained,False,Lubbock TX,COA122,3,2.6,0.08,base rate,0.93,-0.07,0.895
+COA123,LVLE14,Louisville KY,14,3,3.2,Retained,False,Louisville KY,COA123,2,3.2,0.04,top-quartile and not sliding (x0.5),1.15,0.19,0.921
+COA124,LVNV03,Las Vegas NV,3,15,2.8,Retained,False,Las Vegas NV,COA124,14,2.8,0.08,base rate,0.15,0.07,0.339
+COA125,LWLL07,Lowell MA,7,6,2.2,Retained,False,Lowell MA,COA125,5,2.2,0.04,top-quartile and not sliding (x0.5),1.38,0.16,0.996
+COA126,MADI15,Madison WI,15,2,1.3,Retained,False,Madison WI,COA126,1,1.3,0.08,base rate,-0.98,0.0,0.364
+COA127,MANC07,Manchester NH,7,13,3.3,Retained,False,Manchester NH,COA127,12,3.3,0.08,base rate,-0.7,0.16,0.519
+COA128,MATX04,McAllen TX,4,4,2.4,Retained,False,McAllen TX,COA128,3,2.4,0.08,base rate,-0.61,-0.14,0.259
+COA129,KOPA09,King of Prussia PA,9,26,2.8,Retained,False,King of Prussia PA,COA129,25,2.8,0.08,base rate,-1.02,0.43,0.552
+COA130,MELB10,Melbourne FL,10,3,3.0,Retained,False,Melbourne FL,COA130,2,3.0,0.16,bottom-quartile finish (x2),-1.12,-0.01,0.201
+COA131,MEMP01,Memphis TN,1,2,1.8,Retained,False,Memphis TN,COA131,1,1.8,0.16,bottom-quartile finish (x2),-0.05,-0.17,0.209
+COA132,MESA03,Mesa AZ,3,3,3.1,Retained,False,Mesa AZ,COA132,2,3.1,0.16,bottom-quartile finish (x2),-1.3,0.05,0.063
+COA133,MGMT05,Santa Clarita CA,5,10,2.5,Retained,False,Santa Clarita CA,COA133,9,2.5,0.16,bottom-quartile finish (x2),-1.19,-0.1,0.0
+COA134,MIAM10,Miami FL,10,7,2.3,Retained,False,Miami FL,COA134,6,2.3,0.16,bottom-quartile finish (x2),0.11,-0.21,0.159
+COA255,MILW15,Milwaukee WI,15,1,1.8,Fired - new hire,True,new to league,COA135,14,2.2,0.08,base rate,-0.36,0.15,0.51
+COA136,MINN16,Minneapolis MN,16,4,2.0,Retained,False,Minneapolis MN,COA136,3,2.0,0.08,base rate,0.93,-0.1,0.28
+COA137,MNHT08,Manhattan NY,8,2,4.5,Retained,False,Manhattan NY,COA137,1,4.5,0.08,base rate,0.85,-0.05,0.741
+COA256,MOBI02,Mobile AL,2,1,3.0,Fired - new hire,True,new to league,COA138,3,1.4,0.2,bottom-quartile finish AND sharp slide (x2.5),0.97,-0.26,0.238
+COA139,MODE06,Modesto CA,6,5,2.8,Retained,False,Modesto CA,COA139,4,2.8,0.08,base rate,-1.15,0.22,0.439
+COA140,MONT01,Montgomery AL,1,14,3.2,Retained,False,Montgomery AL,COA140,13,3.2,0.04,top-quartile and not sliding (x0.5),-0.53,0.16,0.803
+COA141,NAMP12,Nampa ID,12,5,3.0,Retained,False,Nampa ID,COA141,4,3.0,0.08,base rate,-0.03,0.09,0.573
+COA142,MURF01,Murfreesboro TN,1,5,3.2,Retained,False,Murfreesboro TN,COA142,4,3.2,0.08,base rate,-0.41,0.18,0.69
+COA143,NAPE15,Naperville IL,15,3,2.6,Retained,False,Naperville IL,COA143,2,2.6,0.04,top-quartile and not sliding (x0.5),2.15,0.13,0.992
+COA144,NASH01,Nashville TN,1,3,2.4,Retained,False,Nashville TN,COA144,2,2.4,0.04,top-quartile and not sliding (x0.5),0.94,0.04,0.866
+COA257,NBTX04,New Braunfels TX,4,1,1.7,Fired - new hire,True,new to league,COA145,7,3.2,0.08,base rate,-0.06,0.09,0.343
+COA146,NEWK08,Newark NJ,8,7,1.6,Retained,False,Newark NJ,COA146,6,1.6,0.08,base rate,0.14,0.08,0.515
+COA147,NLVN03,North Las Vegas NV,3,9,2.9,Retained,False,North Las Vegas NV,COA147,8,2.9,0.08,base rate,0.36,-0.01,0.904
+COA148,NOLA02,New Orleans LA,2,4,3.3,Retained,False,New Orleans LA,COA148,3,3.3,0.2,bottom-quartile finish AND sharp slide (x2.5),-0.52,-0.36,0.1
+COA149,NORF09,Norfolk VA,9,2,1.9,Retained,False,Norfolk VA,COA149,1,1.9,0.16,bottom-quartile finish (x2),-0.05,-0.18,0.213
+COA258,NPFL10,North Port FL,10,1,1.6,Fired - new hire,True,new to league,COA150,1,2.9,0.16,bottom-quartile finish (x2),-1.25,0.2,0.163
+COA151,OAKL06,Oakland CA,6,2,3.0,Retained,False,Oakland CA,COA151,1,3.0,0.16,bottom-quartile finish (x2),0.0,-0.19,0.222
+COA152,ODES13,Odessa TX,13,2,2.0,Retained,False,Odessa TX,COA152,1,2.0,0.04,top-quartile and not sliding (x0.5),1.46,0.04,1.0
+COA153,STGU03,St. George UT,3,3,3.0,Retained,False,St. George UT,COA153,2,3.0,0.08,base rate,-0.31,-0.12,0.31
+COA154,OKCO13,Oklahoma City OK,13,2,2.6,Retained,False,Oklahoma City OK,COA154,1,2.6,0.16,bottom-quartile finish (x2),-0.07,0.02,0.084
+COA155,OMAH16,Omaha NE,16,2,2.7,Retained,False,Omaha NE,COA155,1,2.7,0.2,bottom-quartile finish AND sharp slide (x2.5),-0.28,-0.27,0.109
+COA156,ONCA05,Ontario CA,5,2,0.3,Retained,False,Ontario CA,COA156,1,0.3,0.08,base rate,-0.79,0.0,0.448
+COA157,OPKS16,Overland Park KS,16,11,3.3,Retained,False,Overland Park KS,COA157,10,3.3,0.08,base rate,0.58,-0.08,0.293
+COA158,OREM03,Orem UT,3,3,1.6,Retained,False,Orem UT,COA158,2,1.6,0.16,bottom-quartile finish (x2),-0.96,-0.15,0.088
+COA159,ORLA10,Orlando FL,10,12,3.4,Retained,False,Orlando FL,COA159,11,3.4,0.08,base rate,0.12,-0.15,0.594
+COA160,OXNA05,Oxnard CA,5,3,3.4,Retained,False,Oxnard CA,COA160,2,3.4,0.08,base rate,-0.45,-0.15,0.264
+COA161,PASA02,Pasadena TX,2,6,1.5,Retained,False,Pasadena TX,COA161,5,1.5,0.08,base rate,-0.25,-0.04,0.619
+COA162,LCTX02,League City TX,2,8,4.0,Retained,False,League City TX,COA162,7,4.0,0.08,base rate,-0.83,-0.1,0.582
+COA163,PETE10,St. Petersburg FL,10,3,3.3,Retained,False,St. Petersburg FL,COA163,2,3.3,0.08,base rate,-0.68,0.08,0.577
+COA164,PHIL09,Philadelphia PA,9,4,2.5,Retained,False,Philadelphia PA,COA164,3,2.5,0.08,base rate,2.28,-0.13,0.682
+COA165,PHOE03,Phoenix AZ,3,11,3.2,Retained,False,Phoenix AZ,COA165,10,3.2,0.08,base rate,-0.13,-0.24,0.377
+COA166,PITT14,Pittsburgh PA,14,3,2.9,Retained,False,Pittsburgh PA,COA166,2,2.9,0.04,top-quartile and not sliding (x0.5),2.24,0.01,0.87
+COA167,PLAN04,Plano TX,4,2,3.2,Retained,False,Plano TX,COA167,1,3.2,0.16,bottom-quartile finish (x2),-0.75,-0.17,0.105
+COA168,PLDM07,Portland ME,7,2,1.9,Retained,False,Portland ME,COA168,1,1.9,0.08,base rate,0.08,0.0,0.435
+COA169,PORO12,Portland OR,12,9,2.0,Retained,False,Portland OR,COA169,8,2.0,0.04,top-quartile and not sliding (x0.5),0.79,0.18,0.891
+COA259,BEND12,Bend OR,12,1,3.7,Fired - new hire,True,new to league,COA170,6,3.4,0.08,base rate,-0.93,0.21,0.665
+COA171,PRAI15,Peoria IL,15,4,3.6,Retained,False,Peoria IL,COA171,3,3.6,0.08,base rate,-0.9,-0.03,0.485
+COA172,PROV07,Providence RI,7,12,2.2,Retained,False,Providence RI,COA172,11,2.2,0.04,top-quartile and not sliding (x0.5),-0.38,0.21,0.812
+COA260,QCTY11,Charlotte NC,11,1,1.6,Fired - new hire,True,new to league,COA173,3,3.1,0.2,bottom-quartile finish AND sharp slide (x2.5),0.32,-0.45,0.021
+COA174,QUEE08,Queens NY,8,2,2.8,Retained,False,Queens NY,COA174,1,2.8,0.08,base rate,-0.31,0.01,0.393
+COA175,NHVN08,New Haven CT,8,8,2.7,Retained,False,New Haven CT,COA175,7,2.7,0.16,sharp multi-year slide (x2),-0.38,-0.35,0.431
+COA176,RALE11,Raleigh NC,11,2,2.3,Retained,False,Raleigh NC,COA176,1,2.3,0.08,base rate,-0.84,0.23,0.556
+COA177,KISS10,Kissimmee FL,10,5,2.4,Retained,False,Kissimmee FL,COA177,4,2.4,0.16,bottom-quartile finish (x2),-1.2,-0.08,0.092
+COA178,RDNG09,Reading PA,9,5,2.6,Retained,False,Reading PA,COA178,4,2.6,0.08,base rate,-0.88,-0.03,0.469
+COA179,RENO06,Reno NV,6,16,2.9,Retained,False,Reno NV,COA179,15,2.9,0.08,base rate,2.16,-0.17,0.9
+COA180,RFRD15,Rockford IL,15,2,2.1,Retained,False,Rockford IL,COA180,1,2.1,0.16,bottom-quartile finish (x2),-0.51,-0.13,0.113
+COA181,RIVE05,Riverside CA,5,5,2.0,Retained,False,Riverside CA,COA181,4,2.0,0.16,bottom-quartile finish (x2),-0.46,0.01,0.172
+COA182,RKHL11,Rock Hill SC,11,2,2.7,Retained,False,Rock Hill SC,COA182,1,2.7,0.08,base rate,3.21,-0.02,0.862
+COA261,RMVA09,Richmond VA,9,1,3.0,Fired - new hire,True,new to league,COA183,6,3.0,0.08,base rate,-0.06,0.05,0.54
+COA184,RNKE11,Roanoke VA,11,12,2.3,Retained,False,Roanoke VA,COA184,11,2.3,0.08,base rate,2.41,-0.11,0.724
+COA262,ROCH07,Rochester NY,7,1,2.6,Fired - new hire,True,new to league,COA185,1,1.9,0.08,base rate,-1.23,0.07,0.331
+COA186,RRTX04,Round Rock TX,4,6,3.4,Retained,False,Round Rock TX,COA186,5,3.4,0.08,base rate,0.27,-0.12,0.368
+COA187,RSTR16,Rochester MN,16,13,2.5,Retained,False,Rochester MN,COA187,12,2.5,0.16,bottom-quartile finish (x2),-1.17,0.06,0.176
+COA188,SACA05,Santa Ana CA,5,28,1.3,Retained,False,Santa Ana CA,COA188,27,1.3,0.08,base rate,-1.27,0.25,0.46
+COA189,SALM12,Salem OR,12,10,1.4,Retained,False,Salem OR,COA189,9,1.4,0.16,sharp multi-year slide (x2),-0.38,-0.25,0.49
+COA190,SATX04,San Antonio TX,4,7,1.8,Retained,False,San Antonio TX,COA190,6,1.8,0.08,base rate,0.03,-0.12,0.297
+COA191,SAVA11,Savannah GA,11,5,3.3,Retained,False,Savannah GA,COA191,4,3.3,0.04,top-quartile and not sliding (x0.5),1.46,0.0,0.946
+COA192,EVRT12,Everett WA,12,6,4.3,Retained,False,Everett WA,COA192,5,4.3,0.04,top-quartile and not sliding (x0.5),-0.31,0.0,0.808
+COA193,SBIN15,South Bend IN,15,5,2.8,Retained,False,South Bend IN,COA193,4,2.8,0.08,base rate,2.31,-0.03,0.979
+COA194,OLYM12,Olympia WA,12,2,1.4,Retained,False,Olympia WA,COA194,1,1.4,0.16,bottom-quartile finish (x2),-0.91,0.06,0.042
+COA195,RSWL01,Roswell GA,1,5,1.1,Retained,False,Roswell GA,COA195,4,1.1,0.16,bottom-quartile finish (x2),-1.28,0.0,0.117
+COA196,SCOT03,Scottsdale AZ,3,4,3.6,Retained,False,Scottsdale AZ,COA196,3,3.6,0.08,base rate,-1.06,0.25,0.657
+COA197,SCTO06,Sacramento CA,6,2,2.4,Retained,False,Sacramento CA,COA197,1,2.4,0.08,base rate,-0.29,-0.17,0.414
+COA263,SDCA05,San Diego CA,5,1,3.2,Fired - new hire,True,new to league,COA198,4,1.6,0.08,base rate,-0.56,-0.01,0.322
+COA199,SEAT12,Seattle WA,12,3,2.7,Retained,False,Seattle WA,COA199,2,2.7,0.2,bottom-quartile finish AND sharp slide (x2.5),1.42,-0.58,0.247
+COA200,SFCA06,San Francisco CA,6,11,2.1,Retained,False,San Francisco CA,COA200,10,2.1,0.16,bottom-quartile finish (x2),-0.02,-0.12,0.134
+COA201,SFLD07,Springfield MA,7,6,2.4,Retained,False,Springfield MA,COA201,5,2.4,0.04,top-quartile and not sliding (x0.5),-0.64,0.06,0.849
+COA202,SFSD16,Sioux Falls SD,16,4,2.5,Retained,False,Sioux Falls SD,COA202,3,2.5,0.16,bottom-quartile finish (x2),-1.38,0.04,0.004
+COA203,SHRE02,Shreveport LA,2,24,3.5,Retained,False,Shreveport LA,COA203,23,3.5,0.08,base rate,0.2,-0.2,0.481
+COA264,SJCA06,San Jose CA,6,1,3.4,Fired - new hire,True,new to league,COA204,4,1.4,0.08,base rate,0.68,-0.02,0.59
+COA233,SLCU03,Salt Lake City UT,3,1,2.5,Fired - hired poached coach,True,Waco TX,COA205,1,2.1,0.16,sharp multi-year slide (x2),1.21,-0.42,0.703
+COA206,SLND02,Sugar Land TX,2,7,3.2,Retained,False,Sugar Land TX,COA206,6,3.2,0.08,base rate,1.64,-0.14,0.833
+COA207,SLOO06,San Luis Obispo CA,6,16,3.8,Retained,False,San Luis Obispo CA,COA207,15,3.8,0.04,top-quartile and not sliding (x0.5),4.57,0.07,0.874
+COA208,LKCH02,Lake Charles LA,2,15,3.4,Retained,False,Lake Charles LA,COA208,14,3.4,0.08,base rate,-0.1,-0.01,0.406
+COA209,SPMN16,Saint Paul MN,16,9,2.2,Retained,False,Saint Paul MN,COA209,8,2.2,0.08,base rate,0.74,-0.2,0.653
+COA210,SPOK12,Spokane WA,12,10,2.5,Retained,False,Spokane WA,COA210,9,2.5,0.08,base rate,3.58,-0.05,0.933
+COA211,SCMO16,Saint Charles MO,16,8,2.9,Retained,False,Saint Charles MO,COA211,7,2.9,0.16,bottom-quartile finish (x2),-1.13,0.24,0.126
+COA212,SRCA06,Santa Rosa CA,6,4,2.1,Retained,False,Santa Rosa CA,COA212,3,2.1,0.08,base rate,-1.16,0.17,0.473
+COA213,SSGA01,Sandy Springs GA,1,2,2.2,Retained,False,Sandy Springs GA,COA213,1,2.2,0.08,base rate,-0.14,-0.1,0.841
+COA214,STAT08,Staten Island NY,8,3,2.6,Retained,False,Staten Island NY,COA214,2,2.6,0.08,base rate,0.8,-0.15,0.272
+COA215,STLO16,Saint Louis MO,16,10,2.3,Retained,False,Saint Louis MO,COA215,9,2.3,0.08,base rate,0.07,-0.08,0.548
+COA216,STOC06,Stockton CA,6,4,2.6,Retained,False,Stockton CA,COA216,3,2.6,0.04,top-quartile and not sliding (x0.5),0.45,0.41,0.824
+COA217,DICE03,Paradise NV,3,3,2.4,Retained,False,Paradise NV,COA217,2,2.4,0.08,base rate,0.86,-0.01,0.879
+COA218,SYRA07,Syracuse NY,7,8,2.6,Retained,False,Syracuse NY,COA218,7,2.6,0.16,sharp multi-year slide (x2),-0.13,-0.25,0.385
+COA219,TACO12,Tacoma WA,12,7,1.7,Retained,False,Tacoma WA,COA219,6,1.7,0.04,top-quartile and not sliding (x0.5),-0.19,0.1,0.757
+COA220,TALL10,Tallahassee FL,10,5,3.1,Retained,False,Tallahassee FL,COA220,4,3.1,0.04,top-quartile and not sliding (x0.5),0.14,0.37,0.962
+COA265,TCSN03,Tucson AZ,3,1,3.5,Fired - new hire,True,new to league,COA221,1,4.2,0.08,base rate,-0.34,0.15,0.732
+COA222,KENN12,Kennewick WA,12,2,1.3,Retained,False,Kennewick WA,COA222,1,1.3,0.16,bottom-quartile finish (x2),-0.74,-0.21,0.18
+COA223,MISS12,Missoula MT,12,5,2.5,Retained,False,Missoula MT,COA223,4,2.5,0.04,top-quartile and not sliding (x0.5),-0.78,0.01,0.753
+COA224,TMPA10,Tampa FL,10,28,1.6,Retained,False,Tampa FL,COA224,27,1.6,0.08,base rate,-1.0,0.16,0.402
+COA225,TOLE14,Toledo OH,14,6,0.9,Retained,False,Toledo OH,COA225,5,0.9,0.08,base rate,-0.54,0.22,0.607
+COA226,EVAN15,Evanston IL,15,9,1.9,Retained,False,Evanston IL,COA226,8,1.9,0.08,base rate,-0.52,-0.21,0.418
+COA266,WPNY08,White Plains NY,8,1,2.3,Fired - new hire,True,new to league,COA227,1,1.7,0.04,top-quartile and not sliding (x0.5),-0.22,0.14,0.762
+COA267,TULS13,Tulsa OK,13,1,2.4,Fired - new hire,True,new to league,COA228,4,3.2,0.08,base rate,-0.47,-0.06,0.477
+COA229,TWTX02,The Woodlands TX,2,4,3.0,Retained,False,The Woodlands TX,COA229,3,3.0,0.16,bottom-quartile finish (x2),-0.57,-0.06,0.234
+COA230,VANC12,Vancouver WA,12,22,2.5,Retained,False,Vancouver WA,COA230,21,2.5,0.08,base rate,1.86,0.04,0.649
+COA231,VBVA09,Virginia Beach VA,9,3,2.6,Retained,False,Virginia Beach VA,COA231,2,2.6,0.08,base rate,-0.8,0.22,0.335
+COA268,VISA06,Visalia CA,6,1,3.6,Fired - new hire,True,new to league,COA232,4,2.9,0.16,bottom-quartile finish (x2),-1.27,0.18,0.025
+COA269,WACO04,Waco TX,4,1,2.0,Coach poached away - new hire,True,new to league,COA233,6,2.5,0.04,top-quartile and not sliding (x0.5),-0.55,0.33,0.77
+COA234,WASH09,Washington DC,9,8,2.7,Retained,False,Washington DC,COA234,7,2.7,0.08,base rate,0.0,-0.13,0.787
+COA235,WICH13,Wichita KS,13,19,1.9,Retained,False,Wichita KS,COA235,18,1.9,0.08,base rate,-1.25,0.09,0.276
+COA236,WILM09,Wilmington DE,9,2,3.1,Retained,False,Wilmington DE,COA236,1,3.1,0.16,bottom-quartile finish (x2),-1.12,-0.15,0.075
+COA237,WNSM11,Winston-Salem NC,11,4,3.2,Retained,False,Winston-Salem NC,COA237,3,3.2,0.08,base rate,2.45,-0.25,0.536
+COA238,WORC07,Worcester MA,7,3,3.0,Retained,False,Worcester MA,COA238,2,3.0,0.04,top-quartile and not sliding (x0.5),-0.38,0.17,0.887
+COA239,WPBF10,West Palm Beach FL,10,3,3.9,Retained,False,West Palm Beach FL,COA239,2,3.9,0.04,top-quartile and not sliding (x0.5),0.42,0.28,0.975
+COA240,YONK08,Yonkers NY,8,9,2.5,Retained,False,Yonkers NY,COA240,8,2.5,0.16,bottom-quartile finish (x2),-0.59,0.17,0.184
